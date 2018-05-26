@@ -28,6 +28,7 @@ Laboratory 4         | 97/100
 Laboratory 5         | 97/100
 Project              | 90/115
 Weighted marks       | 87/100
+Final Letter Grade   |   A+
 
 Those assessment are not full-mark answer.
 **IF YOU DECIDED ADOPT THOSE CODE, USE AT OUR OWN RISK.**
